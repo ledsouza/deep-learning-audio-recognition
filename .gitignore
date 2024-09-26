@@ -1,6 +1,7 @@
 __MACOSX
 .keras
 .lightning_studio
+datasets
 dataset_commands
 dataset_commands.zip
 main.py
